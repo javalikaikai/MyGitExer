@@ -6,3 +6,4 @@
 dev update
 master update
 master update02
+origin update
